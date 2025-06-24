@@ -1,28 +1,42 @@
 # YT2MP3-WesMan
 An insanely simple and lightweight Windows desktop application which allows you to easily download the audio from any YouTube video as an MP3 file.
 
-Running Locally (From Source)
-Requirements
+Running Locally (From Source)-
+
+Requirements:
+
 Python 3.7 or higher installed on your system
+
 pytubefix Python package
 
-Setup Steps
+Setup Steps-
+
 Install dependencies:
+
 Open a terminal or command prompt and run:
+
 pip install pytubefix
 
 Run the script:
+
 From the terminal, navigate to the folder containing yttomp3.py and run:
+
 python yttomp3.py
 
 Use the app:
+
 Paste a YouTube URL into the input field.
+
 Click "Download MP3."
+
 Choose where to save the MP3 file.
+
 Watch the progress bar and status messages.
+
 
 ---------------------------------------------------------------------------------------
 Using the Prebuilt EXE (No Python Needed)
+
 If you just want to use the tool without installing Python or dependencies:
 
 Download the latest yt2mp3-wesman.exe from the Releases page.
