@@ -15,7 +15,7 @@ Install dependencies:
 
 Open a terminal or command prompt and run:
 
-pip install pytubefix
+pip install pytubefix (version 9.1.1)
 
 Run the script:
 
