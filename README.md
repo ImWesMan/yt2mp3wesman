@@ -7,6 +7,8 @@ Requirements:
 
 Python 3.7 or higher installed on your system
 
+ffmpeg.exe installed and in the same directory as the script
+
 pytubefix Python package
 
 Setup Steps-
@@ -50,7 +52,5 @@ The program handles downloading and conversion automatically.
 Notes
 This tool is for personal and legal use only. Please respect copyright laws and YouTube's terms of service.
 
-The application bundles ffmpeg for audio conversion, so no extra setup is needed when using the .exe.
-
-This application includes FFmpeg, licensed under the LGPL v2.1.
+This application utilizes FFmpeg, licensed under the LGPL v2.1.
 FFmpeg is a trademark of Fabrice Bellard. For more information, visit https://ffmpeg.org
